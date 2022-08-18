@@ -21,6 +21,7 @@ Jurisdiction: You agree that this entire agreement (including Privacy Policy) sh
 Entire agreement: These Terms comprise the entire agreement between you and Karzecure Inc. with respect to the above subject matter.
 
 
+
 KarzSecure Privacy Policy
 
 Scope
@@ -40,16 +41,16 @@ DATA WE COLLECT
 When you use Karzsecure, we may collect the following information about you:
 
 Information you provide to us:
-Registration information: When you sign up for an account with Karzsecure, you will be asked for registration information, such as your name, phone number, QR code and official government ID. We require you to provide a phone number in order to use Karzsecure so that we can contact you about your account, and so that you can access your data from any device. Others will be able to add you using your mobile number or QR code. We require you to provide a name for your account. You can make changes to some of this information at any point from your Account Settings page or by emailing us at admin@karzsecure.in.
+Registration information: When you sign up for an account with Karzsecure, you will be asked for registration information, such as your name, phone number, QR code and official government ID. We require you to provide a phone number in order to use Karzsecure so that we can contact you about your account, and so that you can access your data from any device. Others will be able to add you using your mobile number or QR code. We require you to provide a name for your account. We require camera access for qr code scanning. You can make changes to some of this information at any point from your Account Settings page or by emailing us at admin@karzsecure.in.
 User-generated content: We also collect and store the information you provide to us when using our service to share debts, payments, verify the payments from other users ,mark customers as defaulter/fraud and communicate with others. This data includes, for example, expense , amounts, payments, marked defaulter/fraud status of customers, in addition to any other information that you attach or share while using Karzsecure. You may share this information with contacts you specify in the course of using the Service while some will be visible to all the other users. For example, if you add a debt with a user, that user will be able to see that bill, while other users will not. Defaulter/Fraud status information you provided for the customer will be available to all the other merchants that have their contact. You are solely responsible for which contacts this information is shared with.
 
 
-The way you use our service: We collect information about how you use and interact with Karzsecure. Such as the types of expenses you add, the features you use, the actions you take, and the time, frequency and duration of your activities.
+The way you use our service: We collect information about how you use and interact with Karzsecure. Such as the types of expenses you add, the features you use, the actions you take, and the time, frequency and duration of your activities. 
 Information Shared By Others: Other Karzsecure users may share information with you using your contact information (such as QR code or phone number), and that information will be stored in the course of using Karzsecure. Merchants can mark you as defaulter/fraud on the basis of transaction balance with them and that information would be available to other merchants on the app if they have your phone number or QR code. For instance, if a contact of yours adds a payment with you or marks you as defaulter/fraud, Karzsecure may notify you and store that information under your account according to your preferences.
 Device and Location information: When you download or use Karzsecure, we or third party services that we use may receive information about your device and location, We or third party services also collect information about your interaction with Karzsecure including, but not limited to, your computer browser type, pages visited, advertisements clicked on, average time spent on our application, your IP address, unique identifiers of your device, the operating system version and app version. Link to privacy policy of third party service providers used by the app
-Google Play Services
-Firebase Analytics
-Clevertap
+Google Play Services [https://policies.google.com/privacy]
+Firebase Analytics [https://firebase.google.com/policies/analytics]
+Clevertap [https://clevertap.com/privacy-policy/]
 Contests and surveys: From time to time, you may be offered an opportunity to participate in a contest, survey, or other voluntary promotion. We may collect contact or marketing information in connection with one of these promotions.
 When we run a contest, sweepstake or game relating to our Sites, it will be accompanied by a set of rules. The rules for each contest, sweepstakes or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this Privacy Policy. In conjunction with your entry in such contest or sweepstakes, your information will be collected if you voluntarily submit it.
 Other information: We may request or receive other information such as feedback, questions, comments, suggestions, or ideas to provide you with other benefits or to improve upon the Service.
@@ -74,7 +75,7 @@ To alert you to software compatibility issues and to improve our  app design and
 To communicate with you. For example, we will contact you when we release new features, have important news, and when you have a notification generated by activity (including a monthly summary). To enforce our Terms of Service
 To allow other users to find you
 
-Others can find your account on Karzsecure by conducting a search via your QR code or phone number. When others add you on Karzsecure they’re able to see your contact info, name and defaulter/fraud status.
+Others can find your account on Karzsecure by conducting a search via your QR code or phone number. When others add you on Karzsecure they’re able to see your contact info, name and defaulter/fraud status. 
 
 HOW WE SHARE YOUR INFORMATION
 We will not, without your permission, sell, publish, or share your personal information to third parties for their marketing purposes. We help you track and manage shared expenses with your friends by sharing your information in the following ways:
@@ -105,7 +106,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 COOKIES
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. 
 Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
@@ -119,5 +120,4 @@ In accordance with and as permitted by applicable law and regulations, we will r
 CHANGES
 Changes to this Privacy Statement
 
-We may update this Privacy Statement periodically. Changes are effective immediately upon posting.
-
+We may update this Privacy Statement periodically. Changes are effective immediately upon posting. 
